@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Git Hub
 - 🌱 I’m currently learning JAVA
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about My skills
 - 📫 How to reach me: vamshikadasari15@gmail.com
 - ⚡ Fun fact: Trees can make friends and talk to each other. ...
